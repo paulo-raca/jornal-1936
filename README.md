@@ -19,13 +19,13 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 
 ## 🏛️ BRASIL — POLÍTICA E GOVERNO
 
-| | |
-|---|---|
-| Presidente da República | [Getúlio Vargas](https://pt.wikipedia.org/wiki/Get%C3%BAlio_Vargas) |
-| Governador de São Paulo | [Armando de Salles Oliveira](https://pt.wikipedia.org/wiki/Armando_de_Salles_Oliveira) |
-| Prefeito de Presidente Prudente | [João Gonçalves Foz](https://pt.wikipedia.org/wiki/Lista_de_prefeitos_de_Presidente_Prudente) |
-| Prefeito de Campinas | [José Pires Neto](https://pt.wikipedia.org/wiki/Jos%C3%A9_Pires_Neto) |
-| Capital do Brasil | [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)) |
+| | 1936 | 2026 |
+|---|---|---|
+| Presidente da República | [Getúlio Vargas](https://pt.wikipedia.org/wiki/Get%C3%BAlio_Vargas) | [Lula](https://pt.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva) |
+| Governador de São Paulo | [Armando de Salles Oliveira](https://pt.wikipedia.org/wiki/Armando_de_Salles_Oliveira) | [Tarcísio de Freitas](https://pt.wikipedia.org/wiki/Tarc%C3%ADsio_de_Freitas) |
+| Prefeito de Presidente Prudente | [João Gonçalves Foz](https://pt.wikipedia.org/wiki/Lista_de_prefeitos_de_Presidente_Prudente) | [Milton Carlos de Mello](https://pt.wikipedia.org/wiki/Lista_de_prefeitos_de_Presidente_Prudente) |
+| Prefeito de Campinas | [José Pires Neto](https://pt.wikipedia.org/wiki/Lista_de_prefeitos_de_Campinas) | [Dário Saadi](https://pt.wikipedia.org/wiki/D%C3%A1rio_Saadi) |
+| Capital do Brasil | [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)) | [Brasília](https://pt.wikipedia.org/wiki/Bras%C3%ADlia) |
 
 ## 🌍 O MUNDO EM NÚMEROS
 
@@ -53,7 +53,7 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 
 ### ⚔️ Europa à beira da guerra
 
-- 🇩🇪 Hitler ordena a [ocupação militar da Renânia](https://pt.wikipedia.org/wiki/Remilitariza%C3%A7%C3%A3o_da_Ren%C3%A2nia), violando o [Tratado de Versalhes](https://pt.wikipedia.org/wiki/Tratado_de_Versalhes). Nenhum país reage.
+- 🇩🇪 Hitler ordena a [ocupação militar da Renânia](https://pt.wikipedia.org/wiki/Remilitariza%C3%A7%C3%A3o_da_Ren%C3%A2nia), violando o [Tratado de Versalhes](https://pt.wikipedia.org/wiki/Tratado_de_Versalhes_(1919)). Nenhum país reage.
 - 🇪🇸 Começa a [Guerra Civil Espanhola](https://pt.wikipedia.org/wiki/Guerra_Civil_Espanhola). General Franco lidera golpe contra o governo republicano. O conflito duraria 3 anos e mataria ~500 mil pessoas.
 - 🤝 Alemanha e Itália assinam o [Pacto do Eixo Roma-Berlim](https://pt.wikipedia.org/wiki/Eixo_Roma-Berlim), aliança entre Hitler e Mussolini.
 - 📜 Alemanha e Japão assinam o [Pacto Anti-Comintern](https://pt.wikipedia.org/wiki/Pacto_Anti-Comintern), direcionado contra a União Soviética.
@@ -61,14 +61,14 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 ### 👑 Reino Unido — O Rei que abdicou por amor
 
 - 👴 Morre o Rei Jorge V. [Eduardo VIII](https://pt.wikipedia.org/wiki/Eduardo_VIII_do_Reino_Unido) sobe ao trono.
-- 💍 Eduardo VIII [abdica ao trono](https://pt.wikipedia.org/wiki/Abdicação_de_Eduardo_VIII) para se casar com a divorciada americana Wallis Simpson. Seu irmão assume como [Jorge VI](https://pt.wikipedia.org/wiki/Jorge_VI_do_Reino_Unido).
+- 💍 Eduardo VIII [abdica ao trono](https://pt.wikipedia.org/wiki/Crise_da_abdica%C3%A7%C3%A3o_de_Eduardo_VIII) para se casar com a divorciada americana Wallis Simpson. Seu irmão assume como [Jorge VI](https://pt.wikipedia.org/wiki/Jorge_VI_do_Reino_Unido).
 
 ### 🇧🇷 Brasil
 
 - ✈️ Inaugurado o [Aeroporto Santos Dumont](https://pt.wikipedia.org/wiki/Aeroporto_Santos_Dumont) no Rio de Janeiro.
 - 🚢 Dirigível alemão [Hindenburg](https://pt.wikipedia.org/wiki/LZ_129_Hindenburg) completa a primeira viagem transatlântica comercial, passando pelo Brasil.
 - ☕ O preço do café havia despencado de US$ 0,50/kg em 1929 para US$ 0,18/kg em 1931. Para segurar os preços, o governo Vargas [🔥 queimava estoques](https://pt.wikipedia.org/wiki/Ciclo_do_caf%C3%A9): entre 1931 e 1944, cerca de 80 milhões de sacas foram destruídas.
-- 🏭 Vargas impulsiona a [industrialização](https://pt.wikipedia.org/wiki/Substitui%C3%A7%C3%A3o_de_importa%C3%A7%C3%B5es) com tarifas elevadas e controle cambial. As fábricas começavam a surgir onde antes só havia fazendas.
+- 🏭 Vargas impulsiona a [industrialização](https://pt.wikipedia.org/wiki/Era_Vargas) com tarifas elevadas e controle cambial. As fábricas começavam a surgir onde antes só havia fazendas.
 
 ### 🌎 Outras notícias
 
@@ -174,6 +174,7 @@ Realizada na França, o Brasil chegou ao 3º lugar com destaque para [Leônidas 
 | 🏆 1º | 🇮🇹 Itália |
 | 🥈 2º | 🇭🇺 Hungria |
 | 🥉 3º | 🇧🇷 Brasil |
+| 4º | 🇸🇪 Suécia |
 
 ## 🌟 ANIVERSARIANTES
 
@@ -192,7 +193,7 @@ Realizada na França, o Brasil chegou ao 3º lugar com destaque para [Leônidas 
 | Nome | |
 |---|---|
 | [Robert Redford](https://pt.wikipedia.org/wiki/Robert_Redford) | Ator e diretor de cinema |
-| [Úrsula Andress](https://pt.wikipedia.org/wiki/%C3%9Arsula_Andress) | Atriz, 1ª Bond Girl |
+| [Úrsula Andress](https://en.wikipedia.org/wiki/Ursula_Andress) | Atriz, 1ª Bond Girl |
 | [Burt Reynolds](https://pt.wikipedia.org/wiki/Burt_Reynolds) | Ator de Hollywood |
 | [Mary Tyler Moore](https://pt.wikipedia.org/wiki/Mary_Tyler_Moore) | Atriz de TV americana |
 | [Papa Francisco](https://pt.wikipedia.org/wiki/Papa_Francisco) | 266º Papa da Igreja Católica |

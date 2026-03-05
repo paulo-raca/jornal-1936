@@ -1,23 +1,23 @@
-# JORNAL DE 1936
+# Jornal de 1936
 *Edição Especial de Aniversário — 90 Anos*
 
-## ⭐ MANCHETE PRINCIPAL
+## ⭐ Manchete Principal
 
-# NASCEU MARIA VENÂNCIO!
+# Nasceu Maria Venâncio!
 ### Terça-feira, 10 de março de 1936 — 🌕 Lua Cheia
 **Tabajara, subdistrito de Presidente Prudente — São Paulo**
 
-## 👤 QUEM É MARIA VENÂNCIO
+## 👤 Quem é Maria Venâncio
 
 **Signo:** Peixes
 
 **Como ela é:**
-Forte, amiga, carinhosa, fuxiqueira, gentil, ótima mãe, vó, bisavó, tia, sogra, amiga e comadre.
+Forte, amiga, carinhosa, fuxiqueira, gentil, ótima mãe, vó, bisavó, tia, sogra, amiga, comadre e corinthiana.
 
 **O que ela ama:**
 Viajar • Jogar bingo • Ver novela • Casa cheia
 
-## 🏛️ BRASIL — POLÍTICA E GOVERNO
+## 🏛️ Brasil — Política e Governo
 
 | | 1936 | 2026 |
 |---|---|---|
@@ -27,7 +27,7 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 | Prefeito de Campinas | [José Pires Neto](https://pt.wikipedia.org/wiki/Lista_de_prefeitos_de_Campinas) | [Dário Saadi](https://pt.wikipedia.org/wiki/D%C3%A1rio_Saadi) |
 | Capital do Brasil | [Rio de Janeiro](https://pt.wikipedia.org/wiki/Rio_de_Janeiro_(cidade)) | [Brasília](https://pt.wikipedia.org/wiki/Bras%C3%ADlia) |
 
-## 🌍 O MUNDO EM NÚMEROS
+## 🌍 O Mundo em Números
 
 ### 👥 População
 
@@ -49,7 +49,7 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 | 🥛 Leite (litro) | ~500 réis | ~R$ 6,00 |
 | 🚌 Transporte público | ~200 réis | ~R$ 6,00 |
 
-## 🌐 PRINCIPAIS NOTÍCIAS DO MUNDO
+## 🌐 Principais Notícias do Mundo
 
 ### ⚔️ Europa à beira da guerra
 
@@ -75,7 +75,7 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 - 🗳️ [Franklin Roosevelt](https://pt.wikipedia.org/wiki/Franklin_D._Roosevelt) é reeleito presidente dos EUA em vitória esmagadora.
 - 🔬 Morre o cientista [Ivan Pavlov](https://pt.wikipedia.org/wiki/Ivan_Pavlov), famoso por seus experimentos com reflexos condicionados.
 
-## 🎭 CULTURA
+## 🎭 Cultura
 
 ### 🎬 Cinema — 1936
 
@@ -142,7 +142,7 @@ Viajar • Jogar bingo • Ver novela • Casa cheia
 | *[Assassinato no ABC](https://pt.wikipedia.org/wiki/O_Assassinato_no_ABC)* | [Agatha Christie](https://pt.wikipedia.org/wiki/Agatha_Christie) | Romance policial |
 | *[Nightwood](https://pt.wikipedia.org/wiki/Djuna_Barnes)* | [Djuna Barnes](https://pt.wikipedia.org/wiki/Djuna_Barnes) | Marco da literatura LGBTQ+ |
 
-## 🏅 ESPORTES
+## 🏅 Esportes
 
 ### 🔥 Jogos Olímpicos de Berlim 1936
 
@@ -176,7 +176,7 @@ Realizada na França, o Brasil chegou ao 3º lugar com destaque para [Leônidas 
 | 🥉 3º | 🇧🇷 Brasil |
 | 4º | 🇸🇪 Suécia |
 
-## 🌟 ANIVERSARIANTES
+## 🌟 Aniversariantes
 
 ### 🎂 Famosos que também nasceram em 1936
 

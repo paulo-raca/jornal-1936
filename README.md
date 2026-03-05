@@ -17,6 +17,8 @@ Forte, amiga, carinhosa, fuxiqueira, gentil, ótima mãe, vó, bisavó, tia, sog
 **O que ela ama:**
 Viajar • Jogar bingo • Ver novela • Casa cheia
 
+<img src="foto1.png" height="200"> <img src="foto2.png" height="200"> <img src="foto3.png" height="200"> <img src="foto4.png" height="200">
+
 ## 🏛️ Brasil — Política e Governo
 
 | | 1936 | 2026 |
